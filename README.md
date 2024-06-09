@@ -15,17 +15,17 @@ Ineract with it from ==> [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzN
 ___________________________________________________________________________
 
 ## ETL (Extract , Transfer , Load)
-1-Dropping unnecessary columns to streamline the dataset.
-2-Replacing certain missing values to maintain data integrity.
-3-Removing duplicates to ensure the uniqueness of the dataset.
-4-Use DAX to create some columns , measures 
+1-Dropping unnecessary columns to streamline the dataset. /
+2-Replacing certain missing values to maintain data integrity. /
+3-Removing duplicates to ensure the uniqueness of the dataset. /
+4-Use DAX to create some columns , measures /
 5-Load the data 
 ___________________________________________________________________________
 
 ## KPIs
-1-Sales
-2-COGS
-3-Total Revenue
-4-Gross Margin
+1-Sales / 
+2-COGS /
+3-Total Revenue /
+4-Gross Margin /
 
 
