@@ -7,7 +7,6 @@ It offers a comprehensive view of key metrics, trends, and performance indicator
 
 ___________________________________________________________________________
 ##Dataset
-![image](https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/0ed1d61d-d3cf-444b-b477-246314860957)
-
+![image](https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/5a348fe1-7956-49d1-b257-93171e34a015)
 
 To view the Power BI report, click [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQtYjExMi00Y2ViLWJjOTYtNDAyNTUwMWU1ZDE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
