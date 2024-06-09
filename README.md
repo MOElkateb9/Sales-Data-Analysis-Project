@@ -34,13 +34,13 @@ Ineract with it from [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQtY
 
 
 ## Features
-- Menue-bar (close / open)
+- Menu-bar (close / open)
 - dark / light mode
 - filter-bar
 - button to clear all filters
 
 
-contact me via email : mobebo2007@gmail.com
+contact me via email : mobebo2007@gmail.com  
 w.app : 0201064810788
 
 
