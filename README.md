@@ -1,7 +1,11 @@
 # Sales-Data-Analysis-Project
 ___________________________________________________________________________
 ## Overview Dashboard
-![sales](https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/850b6462-9cc3-4f43-a8d4-45c2d81afe3e)
+light mode  
+![sales-light](https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/850b6462-9cc3-4f43-a8d4-45c2d81afe3e)
+dark mode  
+![sales-dark](https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/5f3bd6a8-b427-467e-9094-7545010d6fa5)
+
 This dashboard is an interactive tool designed to provide insightful visualizations and analysis of our sales data
 It offers a comprehensive view of key metrics, trends, and performance indicators, allowing stakeholders to gain valuable insights and make informed decisions.
 
