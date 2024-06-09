@@ -11,7 +11,7 @@ ___________________________________________________________________________
 
 ___________________________________________________________________________
 ## Usage
-Ineract with it from ==> [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQtYjExMi00Y2ViLWJjOTYtNDAyNTUwMWU1ZDE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
+Ineract with it from [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQtYjExMi00Y2ViLWJjOTYtNDAyNTUwMWU1ZDE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
 ___________________________________________________________________________
 
 ## ETL (Extract , Transfer , Load)
@@ -27,5 +27,13 @@ ___________________________________________________________________________
 2-COGS   
 3-Total Revenue   
 4-Gross Margin   
+___________________________________________________________________________
+
+## Insights
+
+___________________________________________________________________________
+
+contact me via email : mobebo2007@gmail.com
+w.app : 0201064810788
 
 
