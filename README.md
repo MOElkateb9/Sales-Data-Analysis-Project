@@ -42,7 +42,6 @@ Ineract with it from [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQtY
 - dark / light mode
 - filter-bar
 - button to clear all filters
-![email](https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/10a53ff3-538e-49a3-80b2-460da2ce2cf0)
 
 
 <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/10a53ff3-538e-49a3-80b2-460da2ce2cf0" alt="mail QR Code" width="20" height="20"> mobebo2007@gmail.com  
