@@ -1,5 +1,14 @@
 # Sales-Data-Analysis-Project
 ___________________________________________________________________________
+# Table of Contents
+- [Overview Dashboard](#overview-dashboard)
+- [Dataset](#dataset)
+- [Usage](#usage)
+- [ETL](#etl)
+- [KPIs](#kpis)
+- [Insights](#insights)
+- [Features](#features)
+___________________________________________________________________________  
 ## Overview Dashboard
    
 light mode  
