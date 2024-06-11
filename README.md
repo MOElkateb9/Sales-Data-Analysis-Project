@@ -65,13 +65,13 @@ Interact with it from [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQt
       Comparing this with the quantity of goods available each month, we see that in February, the quantity of available goods is low.  
 
 
-            These steps can mitigate the sales drop in February 
+                     These steps can mitigate the sales drop in February 
             
-      Improve inventory planning and demand forecasting to ensure adequate stock levels.
+           ✔️ Improve inventory planning and demand forecasting to ensure adequate stock levels.  
 
-     Implement promotional strategies, such as pre-February discounts, to boost sales.
+           ✔️ Implement promotional strategies, such as pre-February discounts, to boost sales.  
 
-     Utilize real-time inventory management and increase production before February to maintain sufficient stock levels.
+           ✔️ Utilize real-time inventory management and increase production before February to maintain sufficient stock levels.  
 
 
 
