@@ -48,7 +48,7 @@ Interact with it from [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQt
 <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/2cb1c2e6-80d2-4501-bfda-4446307d430f" alt="WhatsApp QR Code" width="41" height="41">
 
 ## Insights
-   - By comparing revenue with COGS, we find that the company does not earn much because the difference between them is small, and this is clear from the Gross Margin ratio.
+   - By comparing revenue with COGS, we find that the company does not earn much because the difference between them is small, and this is clear from the Gross Margin ratio.   
            Solution :  
             - ✔️  Optimize Pricing Strategy  
             - ✔️  Reduce (COGS)  
@@ -71,10 +71,11 @@ Interact with it from [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQt
 
            ✔️ Implement promotional strategies, such as pre-February discounts, to boost sales.  
 
-           ✔️ Utilize real-time inventory management and increase production before February to maintain sufficient stock levels.  
+           ✔️ Utilize real-time inventory management and increase production before February   
+               to maintain sufficient stock levels.  
 
 
- - Top 5 Product line
+ - Top 5 Product line   
    <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/301be999-3737-41e1-bbe3-e64fe649fe71" alt="mail QR Code" width="350" height="300">
 
    
