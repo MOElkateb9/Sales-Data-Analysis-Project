@@ -58,8 +58,8 @@ Interact with it from [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQt
 
   - Quantity vs sales Per month :
     <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/0ea2939c-1e24-4739-8fcc-2f97b07fd687" alt="Image 1" width="400" height="500">
-    <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/e92c9823-305a-4f89-b864-47ac9f16359f" alt="Image 2" width="400" height="500">
+    <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/0ea2939c-1e24-4739-8fcc-2f97b07fd687" alt="Image 1" width="350" height="300">
+    <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/e92c9823-305a-4f89-b864-47ac9f16359f" alt="Image 2" width="350" height="300">
 </div>
 
 
