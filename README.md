@@ -74,6 +74,12 @@ Interact with it from [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQt
            ✔️ Utilize real-time inventory management and increase production before February to maintain sufficient stock levels.  
 
 
+ - Top 5 Product line
+   <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/301be999-3737-41e1-bbe3-e64fe649fe71" alt="mail QR Code" width="350" height="300">
+
+   
+
+
 
 
 
