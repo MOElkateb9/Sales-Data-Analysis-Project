@@ -49,6 +49,13 @@ Interact with it from [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQt
 
 ## Insights
    - By comparing revenue with COGS, we find that the company does not earn much because the difference between them is small, and this is clear from the Gross Margin ratio.
+           Solution :  
+            - ✔️  Optimize Pricing Strategy  
+            - ✔️  Reduce (COGS)  
+            - ✔️  Enhance Product Quality  
+            - ✔️  Increase Gross Margin  
+            - ✔️  Marketing and Promotion   
+
 
   
    
