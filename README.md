@@ -76,10 +76,10 @@ Interact with it from [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQt
 
 
  - Top 5 Product line   
-   <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/301be999-3737-41e1-bbe3-e64fe649fe71" alt="mail QR Code" width="350" height="300">
- ---
- - gross income for each branch
-   <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/8e10cd58-e131-4e36-bc17-2c0de3851fff" alt="mail QR Code" width="350" height="300">
+   <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/301be999-3737-41e1-bbe3-e64fe649fe71" alt="mail QR Code" width="350" height="300">   
+
+ - gross income for each branch  
+   <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/8e10cd58-e131-4e36-bc17-2c0de3851fff" alt="mail QR Code" width="350" height="300">   
    All branches have nearly equal gross income, but Branch C shows a slight increase compared to A and B.  
 
 
