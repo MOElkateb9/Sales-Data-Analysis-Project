@@ -43,7 +43,7 @@ Interact with it from [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQt
 4-Gross Margin   
   
  
-![image](https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/d5bf833a-2fe5-4749-ab49-00ffe4c80721)
+<img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/2cb1c2e6-80d2-4501-bfda-4446307d430f" alt="WhatsApp QR Code" width="30" height="30">
   
 ## Insights
  - By comparing revenue with COGS, we find that the company does not earn much because the difference between them is small, and this is clear from the Gross Margin ratio.
