@@ -25,7 +25,8 @@ It offers a comprehensive view of key metrics, trends, and performance indicator
    
    
 ## Usage
-Interact with it from [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQtYjExMi00Y2ViLWJjOTYtNDAyNTUwMWU1ZDE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
+Interact with it from [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQtYjExMi00Y2ViLWJjOTYtNDAyNTUwMWU1ZDE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).  
+[download the PowerPoint presentation](https://github.com/MOElkateb9/Sales-Data-Analysis-Project/blob/main/Sales-Powerpoint.pptx).
    
    
 ## ETL (Extract , Transfer , Load)
@@ -102,9 +103,10 @@ Interact with it from [here](https://app.powerbi.com/view?r=eyJrIjoiN2E4NWEzNmQt
 - button to clear all filters
 - tooltip for customer-type using gender( male - female)  , Product-line table by using Average rate
     
-    
+## contact     
 <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/4d868aa1-a93d-4d16-8944-7f40ec62ad6d" alt="mail QR Code" width="20" height="20"> mohamedelkhateb329@gmail.com  
-<img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/4747bc1a-1809-42c9-bbb9-a618412cbae6" alt="WhatsApp QR Code" width="20" height="20">  0201064810788
+<img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/4747bc1a-1809-42c9-bbb9-a618412cbae6" alt="WhatsApp QR Code" width="20" height="20">  0201064810788  
+my resume :
 
 
 
