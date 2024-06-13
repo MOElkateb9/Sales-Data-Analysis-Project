@@ -15,7 +15,8 @@ light mode
 ![sales-5amsat](https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/430b5d20-9445-4199-aecf-8ec416409384)  
 
 dark mode  
-![sales-dark](https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/5f3bd6a8-b427-467e-9094-7545010d6fa5)
+![sales-dark](https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/cd4dee75-52bc-4ca6-93f6-51437aeb2219)  
+
      
 This dashboard is an interactive tool designed to provide insightful visualizations and analysis of our sales data
 It offers a comprehensive view of key metrics, trends, and performance indicators, allowing stakeholders to gain valuable insights and make informed decisions.
