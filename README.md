@@ -12,7 +12,8 @@ ___________________________________________________________________________
 ## Overview Dashboard
    
 light mode  
-![sales-light](https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/850b6462-9cc3-4f43-a8d4-45c2d81afe3e)
+![sales-5amsat](https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/430b5d20-9445-4199-aecf-8ec416409384)  
+
 dark mode  
 ![sales-dark](https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/5f3bd6a8-b427-467e-9094-7545010d6fa5)
      
